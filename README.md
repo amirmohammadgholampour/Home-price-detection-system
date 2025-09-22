@@ -1,4 +1,4 @@
-# California Housing Price Prediction 🏡  
+# California Housing Price Prediction 
 
 ## Project Overview  
 This project focuses on predicting California housing prices using machine learning techniques.  
