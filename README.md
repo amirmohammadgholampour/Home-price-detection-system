@@ -52,7 +52,7 @@ The model explains **~83%** of the variance in housing prices, which is a strong
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/yourusername/california-housing-prediction.git
+git clone https://github.com/amirmohammadgholampour/Home-price-detection-system/
 pip install -r requirements.txt
 ```
 
